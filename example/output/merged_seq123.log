@@ -1,0 +1,9 @@
+example/input/seq1.bed	2	300
+example/input/seq2.bed	2	300
+example/input/seq3.bed	2	300
+# peaks before merging - 6
+# bp before - 0 
+# peaks after merging - 0
+# bp after - 0
+Gap of peaks - 6
+Gap of bp -  0
